@@ -31,12 +31,23 @@ It includes **data cleaning, exploratory analysis, feature engineering, and mach
 
 ---
 
-## ⚙️ Installation
 
-1. Clone this repository:
+##  Setup & Installation
+
+1. **Clone the repository**
    ```bash
    git clone https://github.com/<kanyi-Gabriel>/imdb-sentiment-analysis.git
    cd imdb-sentiment-analysis
+   
+2. Create a virtual environment
+    ```bash
 
-
+   conda create -- name environment_name
+   conda activate environment_name
+   pip install -r requirements.txt
+    
+3. To add the environment to jupyter notebook
+    ```bash
+    conda install -c anaconda ipykernel
+    python -m ipykernel install --user--name = environment_name
 
