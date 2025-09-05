@@ -1,5 +1,14 @@
 #  IMDB Sentiment Analysis
 
+# 🎬 IMDB Sentiment Analysis  
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikit-learn&logoColor=white)  
+![NLP](https://img.shields.io/badge/NLP-Text_Analysis-green?logo=apache-openoffice&logoColor=white)  
+[![Kaggle Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)  
+
+---
+
 This project analyzes **50,000 IMDB movie reviews** to classify them as **positive** or **negative** using Natural Language Processing (NLP) techniques.  
 It includes **data cleaning, exploratory analysis, feature engineering, and machine learning modeling**, demonstrating an end-to-end data science workflow.
 
