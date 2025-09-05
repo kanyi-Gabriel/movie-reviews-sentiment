@@ -18,10 +18,14 @@ It includes **data cleaning, exploratory analysis, feature engineering, and mach
 
 ## 📂 Repository Structure
 📂 imdb-sentiment-analysis
+
  ┣ 📜 README.md   ← project overview, results, how to run
+ 
  ┣ 📜 requirements.txt  ← Python libraries
+ 
  ┣ 📂 notebooks
  ┃   ┗ Sentiment_Analysis_IMDB.ipynb
+ 
  ┣ 📂 data 
 
 
