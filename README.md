@@ -47,7 +47,7 @@ It includes **data cleaning, exploratory analysis, feature engineering, and mach
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<kanyi-Gabriel>/imdb-sentiment-analysis.git
+   git clone https://github.com/<kanyi-Gabriel>/movie-review-sentiment.git
    cd imdb-sentiment-analysis
    
 2. Create a virtual environment
