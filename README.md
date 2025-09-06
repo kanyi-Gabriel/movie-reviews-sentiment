@@ -24,7 +24,7 @@ It includes **data cleaning, exploratory analysis, feature engineering, and mach
 ---
 
 ## 📂 Repository Structure
-📂 imdb-sentiment-analysis
+📂 movie-review-sentiment
 
  ┣ 📜 README.md   ← project overview, results, how to run
  
