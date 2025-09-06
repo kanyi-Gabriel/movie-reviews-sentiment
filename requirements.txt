@@ -4,4 +4,4 @@ matplotlib==3.9.2
 seaborn==0.13.2
 scikit-learn==1.5.1
 nltk==3.9.1
-python ==3.11.7
+python ==3.10
