@@ -35,6 +35,10 @@ It includes **data cleaning, exploratory analysis, feature engineering, and mach
  
  ┣ 📂 data 
 
+  ┣ 📜 .gitignore
+
+   ┣ 📜 .gitattributes
+
 
 ---
 
