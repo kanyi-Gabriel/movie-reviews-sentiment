@@ -26,20 +26,24 @@ It includes **data cleaning, exploratory analysis, feature engineering, and mach
 ## 📂 Repository Structure
 📂 movie-review-sentiment
 
+ ┣ 📂 Notebooks
+ ┃   ┗ sentiment.ipynb
+
+ ┣ 📂 data 
+ ┃   ┗ IMDB_Dataset.zip
+
+ ┣ 📜 .gitattributes
+
+ ┣ 📜 .gitignore
+
+  ┣ 📜 LICENCE
+
  ┣ 📜 README.md   ← project overview, results, how to run
  
  ┣ 📜 requirements.txt  ← Python libraries
  
- ┣ 📂 notebooks
- ┃   ┗ Sentiment_Analysis_IMDB.ipynb
+
  
- ┣ 📂 data 
-
-  ┣ 📜 .gitignore
-
-   ┣ 📜 .gitattributes
-
-
 ---
 
 
