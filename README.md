@@ -66,3 +66,6 @@ It includes **data cleaning, exploratory analysis, feature engineering, and mach
     conda install -c anaconda ipykernel
     python -m ipykernel install --user--name = environment_name
 
+    ---
+  ## Insights
+
