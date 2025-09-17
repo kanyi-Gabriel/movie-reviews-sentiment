@@ -42,7 +42,24 @@ It includes **data cleaning, exploratory analysis, feature engineering, and mach
  
  ┣ 📜 requirements.txt  ← Python libraries
  
-
+movie-reviews-sentiment/
+│── README.md
+│── requirements.txt
+│── .gitignore
+│
+├── data/
+│        └── IMDB_Dataset.zip        
+│   
+│
+├── notebooks/           # Jupyter notebooks for analysis
+│   └── sentiment.ipynb
+│
+├── LICENCE               
+│
+├── .gitattributes
+│
+└── reports/             
+    └── summary_report.pdf
  
 ---
 
