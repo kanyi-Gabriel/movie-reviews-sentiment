@@ -52,7 +52,7 @@ movie-reviews-sentiment/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/<kanyi-Gabriel>/movie-review-sentiment.git
-   cd imdb-sentiment-analysis
+   cd movie-review-sentiment-analysis
    
 2. Create a virtual environment
     ```bash
