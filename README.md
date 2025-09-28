@@ -23,7 +23,7 @@ It includes **data cleaning, exploratory analysis, feature engineering, and mach
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```bash  
 movie-reviews-sentiment/
 │── README.md
